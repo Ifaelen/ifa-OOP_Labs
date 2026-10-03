@@ -24,27 +24,27 @@ namespace OOP_Lab3
 
             for (double x = a; x <= b; x += step)
             {
-                double sumn = 0, sume = 0;
-                double exprn = 1, expre = 1;
+                double sumN = 0, sumE = 0;
+                double exprN = 1, exprE = 1;
                 int i = 0, j = 0;
 
                 while (i <= n)
                 {
-                    exprn = Math.Round(Math.Pow(2 * x, i) / fact(i), 4);
-                    sumn += exprn;
+                    exprN = Math.Round(Math.Pow(2 * x, i) / fact(i), 4);
+                    sumN += exprN;
 
                     i++;
                 }
 
-                while (expre > eps)
+                while (exprE > eps)
                 {
-                    expre = Math.Round(Math.Pow(2 * x, j) / fact(j), 4);
-                    sume += expre;
+                    exprE = Math.Round(Math.Pow(2 * x, j) / fact(j), 4);
+                    sumE += exprE;
 
                     j++;
                 }
 
-                Console.WriteLine($"x = {x}, sumn = {sumn}, sume = {sume}, y = {f(x)}\n");
+                Console.WriteLine($"x = {x}, sumN = {sumN}, sumE = {sumE}, y = {f(x)}\n");
             }
         }
 
