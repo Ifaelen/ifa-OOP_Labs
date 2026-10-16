@@ -1,7 +1,0 @@
-E:\VSProjects\OOP_Lab5\bin\Debug\OOP_Lab5.exe.config
-E:\VSProjects\OOP_Lab5\bin\Debug\OOP_Lab5.exe
-E:\VSProjects\OOP_Lab5\bin\Debug\OOP_Lab5.pdb
-E:\VSProjects\OOP_Lab5\obj\Debug\OOP_Lab5.csproj.AssemblyReference.cache
-E:\VSProjects\OOP_Lab5\obj\Debug\OOP_Lab5.csproj.CoreCompileInputs.cache
-E:\VSProjects\OOP_Lab5\obj\Debug\OOP_Lab5.exe
-E:\VSProjects\OOP_Lab5\obj\Debug\OOP_Lab5.pdb
