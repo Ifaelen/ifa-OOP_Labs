@@ -1,0 +1,7 @@
+E:\VSProjects\OOP_Lab9\bin\Debug\OOP_Lab9.exe.config
+E:\VSProjects\OOP_Lab9\bin\Debug\OOP_Lab9.exe
+E:\VSProjects\OOP_Lab9\bin\Debug\OOP_Lab9.pdb
+E:\VSProjects\OOP_Lab9\obj\Debug\OOP_Lab9.csproj.AssemblyReference.cache
+E:\VSProjects\OOP_Lab9\obj\Debug\OOP_Lab9.csproj.CoreCompileInputs.cache
+E:\VSProjects\OOP_Lab9\obj\Debug\OOP_Lab9.exe
+E:\VSProjects\OOP_Lab9\obj\Debug\OOP_Lab9.pdb
