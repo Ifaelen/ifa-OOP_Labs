@@ -1,0 +1,10 @@
+E:\VSProjects\OOP_Lab10\bin\Debug\OOP_Lab10.exe.config
+E:\VSProjects\OOP_Lab10\bin\Debug\OOP_Lab10.exe
+E:\VSProjects\OOP_Lab10\bin\Debug\OOP_Lab10.pdb
+E:\VSProjects\OOP_Lab10\bin\Debug\OOP_Lab10_ClassesLib.dll
+E:\VSProjects\OOP_Lab10\bin\Debug\OOP_Lab10_ClassesLib.pdb
+E:\VSProjects\OOP_Lab10\obj\Debug\OOP_Lab10.csproj.AssemblyReference.cache
+E:\VSProjects\OOP_Lab10\obj\Debug\OOP_Lab10.csproj.CoreCompileInputs.cache
+E:\VSProjects\OOP_Lab10\obj\Debug\OOP_Lab10.csproj.CopyComplete
+E:\VSProjects\OOP_Lab10\obj\Debug\OOP_Lab10.exe
+E:\VSProjects\OOP_Lab10\obj\Debug\OOP_Lab10.pdb
