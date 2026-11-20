@@ -1,0 +1,10 @@
+E:\VSProjects\OOP_Lab11\bin\Debug\OOP_Lab11.exe.config
+E:\VSProjects\OOP_Lab11\bin\Debug\OOP_Lab11.exe
+E:\VSProjects\OOP_Lab11\bin\Debug\OOP_Lab11.pdb
+E:\VSProjects\OOP_Lab11\bin\Debug\OOP_Lab10_ClassesLib.dll
+E:\VSProjects\OOP_Lab11\bin\Debug\OOP_Lab10_ClassesLib.pdb
+E:\VSProjects\OOP_Lab11\obj\Debug\OOP_Lab11.csproj.AssemblyReference.cache
+E:\VSProjects\OOP_Lab11\obj\Debug\OOP_Lab11.csproj.CoreCompileInputs.cache
+E:\VSProjects\OOP_Lab11\obj\Debug\OOP_Lab11.csproj.CopyComplete
+E:\VSProjects\OOP_Lab11\obj\Debug\OOP_Lab11.exe
+E:\VSProjects\OOP_Lab11\obj\Debug\OOP_Lab11.pdb
